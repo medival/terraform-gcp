@@ -6,3 +6,5 @@ credentials.json
 *.tfstate
 *.tfstate.*
 *.DS_Store
+# public key
+id_rsa.pub
